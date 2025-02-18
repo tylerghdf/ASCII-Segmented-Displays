@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ASCII Segmented Displays.cpp" />
+    <ClCompile Include="display16.cpp" />
+    <ClCompile Include="display7.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="displays.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

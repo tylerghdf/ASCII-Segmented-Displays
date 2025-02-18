@@ -18,5 +18,16 @@
     <ClCompile Include="ASCII Segmented Displays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="display16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="display7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="displays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
